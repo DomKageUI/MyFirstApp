@@ -42,7 +42,7 @@ export default function GitHub() {
 
 const styles = StyleSheet.create({
   headerImage: {
-    color: '#808080',
+    color: '#a600c5',
     bottom: -90,
     left: -35,
     position: 'absolute',
